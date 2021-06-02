@@ -9,4 +9,4 @@ I ❤ Open Source. I love [Neovim](https://www.neovim.io/) and [Go](https://gola
 * Learning and building Go tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medoix&theme=dark&hide=html)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medoix&count_private=true&show_icons=true&height=40&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medoix&count_private=true&show_icons=true&line_height=40&theme=dark)
